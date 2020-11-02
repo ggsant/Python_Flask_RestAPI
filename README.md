@@ -1,0 +1,2 @@
+# Python_Flask_RestAPI
+ Curso de sesenvolvimento avançado Python com Flask e REST API disponibilizado gratuitamente pela Divital Innovation One. O especialista ensina a instalação e configuração do ambiente, como trabalhar com as bibliotecas mais usadas pelos desenvolvedores e a desenvolver uma API completa usando Flask. Para completar os conhecimentos, as aulas também abordam sobre o banco de dados SQLAlchemy e a desenvolver uma Rest API aplicada a ele.
