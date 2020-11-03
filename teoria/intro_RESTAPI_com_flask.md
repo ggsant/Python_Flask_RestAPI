@@ -261,7 +261,7 @@ Abaixo podemos ver um exemplo de uma aplicação em Flask. Podemos notar o quão
 
                 @app.route("/")
                 def index():
-                    return 'Bem-vindo a TreinaWeb!'
+                    return 'Maldição do olá mundo!'
 
                 if __name__ == "__main__":
                     app.run()
