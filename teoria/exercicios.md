@@ -1,3 +1,6 @@
+
+# Exercicios aula 02
+
 **Qual das características abaixo não faz parte do PyCharm?**
 
 - [ ] Dentre suas funções, o PyCharm faz formatação automática e complementação do código.
